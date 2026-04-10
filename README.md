@@ -2,7 +2,7 @@
 
 Bu projede DHT22 sensörü kullanılarak ortamın sıcaklık ve nem değerleri ölçülmekte ve LCD ekranda gösterilmektedir.
 
-##  Kullanilanlar
+## Kullanilanlar
 - Arduino UNO
 - DHT22 sensör
 - LCD ekran
